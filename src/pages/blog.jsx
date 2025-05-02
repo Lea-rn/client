@@ -410,8 +410,8 @@ function Blog() {
       </section>
       {/* <!--================Blog Area =================--> */}
 
-      {/* <!-- Footer Area Starts --> */}
-      <footer className="footer-area">
+     {/* Footer Area Starts */}
+     <footer className="footer-area">
         <div className="footer-widget section-padding">
           <div className="container">
             <div className="row">
@@ -436,9 +436,7 @@ function Blog() {
                       <i className="fa fa-map-marker"></i>
                     </div>
                     <div className="info-text">
-                      <p>
-                        1234 Some St San Francisco, CA 94102, US 1.800.123.4567{" "}
-                      </p>
+                      <p>tunis -hammam lif - 2050 </p>
                     </div>
                   </div>
                   <div className="d-flex">
@@ -446,7 +444,7 @@ function Blog() {
                       <i className="fa fa-phone"></i>
                     </div>
                     <div className="info-text">
-                      <p>(123) 456 78 90</p>
+                      <p>(+216) hot noumrouk .....</p>
                     </div>
                   </div>
                   <div className="d-flex">
@@ -454,7 +452,7 @@ function Blog() {
                       <i className="fa fa-envelope-o"></i>
                     </div>
                     <div className="info-text">
-                      <p>support@axiomthemes.com</p>
+                      <p>name@gmail.com</p>
                     </div>
                   </div>
                 </div>
@@ -481,7 +479,7 @@ function Blog() {
                   rights reserved | This template is made with{" "}
                   <i className="fa fa-heart-o" aria-hidden="true"></i> by{" "}
                   <a href="https://colorlib.com" target="_blank">
-                    Colorlib
+                    maha and nour
                   </a>
                 </span>
               </div>
@@ -521,7 +519,7 @@ function Blog() {
           </div>
         </div>
       </footer>
-      {/* <!-- Footer Area End --> */}
+      {/* Footer Area End */}
     </div>
   );
 }
